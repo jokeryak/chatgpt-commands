@@ -23,7 +23,7 @@ a {
     font-weight: bold;
 }
 
-.table {
-    text-align: center;
-    margin: 0 auto;
+table {
+    display: flex;
+    justify-content: center;
 }
