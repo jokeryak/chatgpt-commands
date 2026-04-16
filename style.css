@@ -14,8 +14,8 @@ table, th, td {
     border-collapse: collapse;
 }
 
-td {
-  padding: 10px;
+td, th {
+    padding: 10px;
 }
 
 a {
@@ -25,4 +25,5 @@ a {
 
 .table {
     text-align: center;
+    margin: auto;
 }
